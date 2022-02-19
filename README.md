@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -25,8 +23,7 @@ Mobile version - ![](mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://frontendmentorschallenge.netlify.app)
 
 ## My process
 - i had to re-sketch it on figma because free users weren't given figma files
@@ -39,9 +36,9 @@ a result of me using margin to position, so eventually had to use flexbox proper
 - CSS custom properties
 - Figma
 
-### What I learned
+### Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@OjePaul](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Paulzodak](https://www.frontendmentor.io/profile/Paulzodak)
+- Twitter - [@OjePaul]
 
 
